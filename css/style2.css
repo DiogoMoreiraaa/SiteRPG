@@ -98,7 +98,7 @@ nav ul button a{
     justify-content: center;
     align-items: center;
     color: #eee;
-    background: url(/img/showcase.png) no-repeat center center/cover;
+    background: url(img/showcase.png) no-repeat center center/cover;
 
     /* Overlay */
     background-color: rgba(0,0,0,0.5);
@@ -129,7 +129,7 @@ nav ul button a{
 
 #clients {
     width: 100%;
-    background: url(/img/fundo-abstrato-com-textura-de-tinta-a-oleo-cinza_53876-129925.jpg);
+    background: url(img/fundo-abstrato-com-textura-de-tinta-a-oleo-cinza_53876-129925.jpg);
     color: #111;
     padding: 50px;
 }
