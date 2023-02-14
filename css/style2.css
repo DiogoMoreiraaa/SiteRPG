@@ -232,3 +232,11 @@ nav ul button a{
     border-radius: 50%;
     margin: 15px;
 }
+
+footer {
+    padding: 5px;
+    background-color: #000;
+    color: #eee;
+    font-size: 10px;
+    text-align: center;
+}

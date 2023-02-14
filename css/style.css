@@ -87,6 +87,12 @@ nav ul button{
     cursor: pointer;
 }
 
+nav ul button:hover{
+
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    transition: 1s;
+}
+
 nav ul button a{
     color: #000;
 }
@@ -223,4 +229,12 @@ nav ul button a{
     width: auto;
     border-radius: 50%;
     margin: 15px;
+}
+
+footer {
+    padding: 5px;
+    background-color: #000;
+    color: #eee;
+    font-size: 10px;
+    text-align: center;
 }
