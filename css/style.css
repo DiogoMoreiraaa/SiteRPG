@@ -128,7 +128,7 @@ nav ul button a{
 
 #clients {
     width: 100%;
-    background: url(../img/fundo-abstrato-com-textura-de-tinta-a-oleo-cinza_53876-129925.jpg);
+    background: url(../img/fundo-abstrato-com-textura-de-tinta-a-oleo-cinza_53876-129925.jpg) fixed;
     color: #111;
     padding: 50px;
 }
