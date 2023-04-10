@@ -109,7 +109,9 @@ section{
     padding: 10px 45px;
     background: #111;
     width: 500px;
-    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    height: 550px;
+    margin-bottom: 100px;
 }
 
 section h2{
@@ -151,6 +153,7 @@ form textarea{
     font-size: 15px;
     margin-bottom: 30px;
     transition: all 0.5s;
+    height: 100px;
 }
 
 form textarea:focus{
