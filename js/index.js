@@ -4,6 +4,9 @@ function obrigado() {
     let email = document.getElementById ('iemail')
 
     if (obri.value.length == 0 || nome.value.length == 0 || email.value.length == 0 ) {
-        window.alert ('Obrigado por mandar, logo responderemos')
+        window.alert ('Por favor escreva')
+    } else {
+      (obri.value.length > 0 && nome.value.length > 0 && email.value.length && 0 ) 
+      alert ('Obrigado por mandar, logo responderemos') 
     }
 }
